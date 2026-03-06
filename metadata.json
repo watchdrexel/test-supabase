@@ -1,0 +1,5 @@
+{
+  "name": "Simple Kanban Board",
+  "description": "A simple Kanban board with tasks, priorities, and notes.",
+  "requestFramePermissions": []
+}
